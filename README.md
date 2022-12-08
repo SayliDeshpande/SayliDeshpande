@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SayliDeshpande
+- 👋 Hi, I’m @sayali
 - 👀 I’m interested in coding, travelling and cooking
 - 🌱 I’m currently learning many thing.
 - 💞️ I’m looking to collaborate on open source
