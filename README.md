@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sayali
-- 👀 I’m interested in coding, travelling and cooking
-- 🌱 I’m currently learning many thing.
-- 💞️ I’m looking to collaborate on open source
-- 📫 How to reach me??? Right now I'm busy 🧘 🧘‍♀️
+- 🌱 I’m currently improving coding skills
+- 💞️ I’m looking to contribute to open source projects 
+- 📫 How to reach me? linkedIn 🙂
 
 <!---
 SayliDeshpande/SayliDeshpande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
