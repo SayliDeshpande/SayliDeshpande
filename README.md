@@ -1,4 +1,4 @@
-                                   # Highly motivated and passionate Software developer **
+# Highly motivated and passionate Software developer 
 - 👋 Hi, 
 - 🌱 I’m currently improving coding skills
 - 💬 Ask me about Core Java, Data Structures and Algorithms, Spring, AWS
