@@ -2,14 +2,14 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/p1Z9gCY6vtaTOzjAhk/giphy.gif" width="100"/>
   
 </div>
 <div id="viewcount" align="center">
    <img src="https://komarev.com/ghpvc/?username=SayliDeshpande&color=green" alt=""/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/p1Z9gCY6vtaTOzjAhk/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="600" height="500"/>
 </div>
 
 - 👋 Hi, 
