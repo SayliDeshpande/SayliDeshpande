@@ -9,7 +9,7 @@
    <img src="https://komarev.com/ghpvc/?username=SayliDeshpande&color=green" alt=""/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="600" height="500"/>
+  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="200" height="250"/>
 </div>
 
 - 👋 Hi, 
