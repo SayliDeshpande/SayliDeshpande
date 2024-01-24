@@ -1,4 +1,4 @@
-# Highly motivated and passionate Software developer 
+# Highly motivated and passionate Software Engineer 
 
 <div align="center">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="200" height="250"/>
