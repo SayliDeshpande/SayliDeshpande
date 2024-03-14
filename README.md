@@ -8,9 +8,9 @@
 </div>
 
 - 🌱 Always exploring the latest in technologies and backend frameworks.
-💡 Open to collaborate on backend projects.
-🤔 Currently diving deep into Python and Machine Learning, AI.
-💬 Let's discuss all things web and backend development!
+- 💡 Open to collaborate on backend projects.
+- 🤔 Currently diving deep into Python and Machine Learning, AI.
+- 💬 Let's discuss all things web and backend development!
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
