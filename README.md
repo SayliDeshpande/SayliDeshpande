@@ -1,4 +1,11 @@
-# Highly motivated and passionate Software Engineer 
+# 👋  Welcome to my corner of code
+Inference started...
+
+Identity: Sayali
+
+Passion: AI | Algorithms | Clean Code
+
+Status: Ready to build.
 
 <div align="center">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="200" height="250"/>
@@ -7,10 +14,10 @@
    <img src="https://komarev.com/ghpvc/?username=SayliDeshpande&color=green" alt=""/>
 </div>
 
-- 🌱 Always exploring the latest in technologies and backend frameworks.
+- 🌱 Engineer with a purpose — blending algorithms, AI, and ambition into scalable solutions.
 - 💡 Open to collaborate on backend projects.
-- 🤔 Currently diving deep into Python and Machine Learning, AI.
-- 💬 Let's discuss all things web and backend development!
+- 🤔 Reigniting my engineering journey with passion for AI, algorithms, and real-world impact.
+- 💬 Let's discuss AI | ML | DS-Algo — Code that scales with clarity.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
