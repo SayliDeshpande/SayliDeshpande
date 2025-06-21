@@ -15,7 +15,6 @@ Status: Ready to build.
 </div>
 
 - 🌱 Engineer with a purpose — blending algorithms, AI, and ambition into scalable solutions.
-- 💡 Open to collaborate on backend projects.
 - 🤔 Reigniting my engineering journey with passion for AI, algorithms, and real-world impact.
 - 💬 Let's discuss AI | ML | DS-Algo — Code that scales with clarity.
 
